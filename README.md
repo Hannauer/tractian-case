@@ -1,2 +1,2 @@
-# traction-case
+# tractian-case
 The solution for the traction  Data Science case
